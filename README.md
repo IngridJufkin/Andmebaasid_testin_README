@@ -2,8 +2,7 @@
 
 ## Projekti omanik
 
-| :memo:
-:pencil: tiim TARTU |
+| :memo: tiim TARTU |
 | ---|
 
 ## Tiim TARTU liikmed
