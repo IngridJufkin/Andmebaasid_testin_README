@@ -1,8 +1,8 @@
 
 
-# Projekti omanik
+# :memo: Projekti omanik
 
-| :memo: tiim TARTU |
+| tiim TARTU |
 | ---|
 
 # Tiim TARTU liikmed
