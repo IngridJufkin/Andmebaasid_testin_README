@@ -28,4 +28,11 @@ Kasutatakse järgmisi lühendeid:
 ARR - tähistab massiivi (array)
 NN - ähistab nõutavat välja (not null)
 
-
+### Orders
+![ :information_source: Link: Tellimuse mudel](./Orders.png)
+### Products
+![ :information_source: Toote mudel](./Products.png)
+### Users
+![ :information_source: Kasutaja mudel](./Users.png)
+### Bonus
+![ :information_source: Boonuse mudel](./Bonus.png)
