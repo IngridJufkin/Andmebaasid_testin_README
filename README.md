@@ -26,11 +26,11 @@ ________________________________________________________________________________
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
-### Orders
+### Schema Orders kood child schema-ga Product
 ![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
-### Products
+### Schema Products
 ![ :information_source: Toote mudel](./Products.png)
-### Users
+### Schema Users
 ![ :information_source: Kasutaja mudel](./Users.png)
-### Bonus
+### Shema Bonus
 ![ :information_source: Boonuse mudel](./Bonus.png)
