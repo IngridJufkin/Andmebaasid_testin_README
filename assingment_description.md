@@ -1,5 +1,5 @@
 
-[Tagasi eelmisele lehel](./README.md) > Ülesande kirjeldus
+[Tagasi eelmisele lehel](./README.md)
 ## Iseseiseva töö ülesande kirjeldus
 
 1. Luua andmebaas mongo atlas lehel (Võib ka mujal või ise hostida)
