@@ -10,13 +10,14 @@
 | Grupiliikme nimi | github kasutaja |
 | --- | --- |
 | :green_book: Airika Vettik | AirikaVettik |
-| Ilja Akulenko | akulenkoilja |
+| :closed_book: Ilja Akulenko | akulenkoilja |
 | :green_book: Ingri Jufkin | IngridJufkin |
-| Kevin-Anders Kalamees | Kevinanders0 |
-| Ragne Samson | ragne989 |
-| Vaire Riiet | Vaire444 |
+| :green_book: Kevin-Anders Kalamees | Kevinanders0 |
+| :green_book: Ragne Samson | ragne989 |
+| :green_book: Vaire Riiet | Vaire444 |
 
-
+:green_book: - aktiivne osaleja 
+:closed_book: - mitteaktiivne osaleja
 ## Iseseiseva töö kirjeldus
 
 1. Luua andmebaas mongo atlas lehel (Võib ka mujal või ise hostida)
