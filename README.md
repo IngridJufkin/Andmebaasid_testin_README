@@ -29,14 +29,6 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________________
 # Konfiguratsioon
-### Toote andmebaasi lisamine (POST), otsimine(GET), muutmine(PATCH), kustutamine(DELETE)
-![Toote lisamine andmebaasi(POST)](./images/POST.png)
-![Kõikide tootete otsimine andmebaasist(GET)](./images/GETALL.png)
-![Toote otsimine andmebaasist toote ID järgi(GET)](./images/GETID.png)
-![Toote muutmine andmebaasis(PATCH)](./images/PATCH.png)
-![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
-
-
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
@@ -73,7 +65,31 @@ ________________________________________________________________________________
 * Boonuse lisamine - `addBonus`
 * Kõikide boonuste leidmine - `getAllBonus`
 * Boonuse muutmine - `updateBonus`
+________________________________________________________________________________________________________________________________________________________________________________
+# Postmanis POST, GET, PATCH ja DELETE
+## (POST) Toote andmebaasi lisamine
+Andmebaasi lisamiseks kasutatakse POST meetodit
+Selleks avame uue päringu Tabi
+Valime päringu tüübiks POST
+Sisestame päringu URL-i. Meie näites server jookseb aadressil `http://localhost:3001`, sellele järgi lisame tee, `/API/Product` (kirjeldatud router.js failis).
+Seejärel valida Body -> raw -> faili tüübiks JSON
+Edasi tuleb body-sse sisestada sisestatavad andmed, kui need lisatud, siis saata päring ("Send" nupp)
+Kui päring õnnestub, on toode lisatud
+![Toote lisamine andmebaasi(POST)](./images/POST.png)
 
+## (GET) andmebaasist kõikide toodete otsimine
+Lisatud toodete vaatamiseks kasutatakse GET päringut
+
+![Kõikide tootete otsimine andmebaasist(GET)](./images/GETALL.png)
+
+## (GET) andmebaasist toote otsimine ID järgi
+![Toote otsimine andmebaasist toote ID järgi(GET)](./images/GETID.png)
+
+## (PATCH) ühe toote muutmine
+![Toote muutmine andmebaasis(PATCH)](./images/PATCH.png)
+
+## (DELETE) ühe toote kustutamine
+![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
 
 
 
