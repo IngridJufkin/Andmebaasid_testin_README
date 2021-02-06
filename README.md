@@ -1,10 +1,10 @@
 
 
-Projekti omanik
+## Projekti omanik
 
-tiim TARTU
+| tiim TARTU |
 
-Tiim TARTU liikmed
+## Tiim TARTU liikmed
 
 | Grupiliikme nimi | github kasutaja |
 | --- | --- |
