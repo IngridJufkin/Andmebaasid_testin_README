@@ -109,11 +109,11 @@ ________________________________________________________________________________
 - Valime päringu tüübiks DELETE
 - Sisestame päringu URL-i. `http://localhost:3001/API/product/:id` (`:id`asendame selle toote ID-ga, mida kustutada soovime)
 - saata päring ("Send" nupp)
-- Kui päring õnnestub, on toode kustutatud. Kontrollimiseks saad kasutada GET meetodit. Kui toodet ei leita tagastav vastuseks `"Product": null`
+- Kui päring õnnestub, on toode kustutatud. Kontrollimiseks saad kasutada GET meetodit. Kui toodet ei leita tagastav vastuseks ![Kustutatud toote päring ID-ga andmebaasist(GET)](./images/GETDELETED.png)
 
 ![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
 
-![Kustutatud toote päring ID-ga andmebaasist(GET)](./images/GETDELETED.png)
+
 
 
 
