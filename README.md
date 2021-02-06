@@ -111,6 +111,7 @@ ________________________________________________________________________________
 - saata päring ("Send" nupp)
 
 ![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
+
 - Kui päring õnnestub, on toode kustutatud. Kontrollimiseks saad kasutada GET meetodit. Kui toodet ei leita tagastav vastuseks ![Kustutatud toote päring ID-ga andmebaasist(GET)](./images/GETDELETED.png)
 
 
