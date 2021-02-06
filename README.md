@@ -21,7 +21,7 @@
 ## Iseseiseva töö kirjeldus
 
 1. Luua andmebaas mongo atlas lehel (Võib ka mujal või ise hostida)
-2. Mõtle välja andmebaasi schema (struktuur) mongoose schema kujul (näiteks: https://github.com/erlendprikss/expressmongoosedemo/blob/main/src/models/users.model.js). Andmebaas võiks miinimum sisaldada kolme tabelit – Products, Orders, Users.
+2. Mõtle välja andmebaasi schema (struktuur) mongoose schema kujul (näiteks: https://github.com/erlendprikss/expressmongoosedemo/blob/main/src/models/users.model.js). Andmebaas võiks miinimum sisaldada kolme tabelit – `Products`, `Orders`, `Users`.
 3. Loo järgnevad api endpointid nodejs keskkonnas:
    - Kasutaja loomine
    - Uue toote loomine 
@@ -37,4 +37,4 @@
    - Ühe tellimuse kuvamine _id järgi (Vastus peaks sisaldama ka kogu seotud toodete infot)
    - Ühe tellimuse muutmine _id järgi
    - Ühe tellimuse staatuse muutmine
-     -  näiteks nagu: ``` OFFER, WAITING_FOR_PAYMENT, IN_MAIL, DONE ```
+     -  à la ``` OFFER, WAITING_FOR_PAYMENT, IN_MAIL, DONE ```
