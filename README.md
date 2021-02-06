@@ -29,7 +29,7 @@ ARR - tähistab massiivi (array)
 NN - ähistab nõutavat välja (not null)
 
 ### Orders
-![ :information_source: Link: Tellimuse mudel](./Schema Orders and child schema Products.png)
+![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
 ### Products
 ![ :information_source: Toote mudel](./Products.png)
 ### Users
