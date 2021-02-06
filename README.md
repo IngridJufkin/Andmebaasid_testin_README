@@ -37,4 +37,4 @@
    - Ühe tellimuse kuvamine _id järgi (Vastus peaks sisaldama ka kogu seotud toodete infot)
    - Ühe tellimuse muutmine _id järgi
    - Ühe tellimuse staatuse muutmine
-     -  à la ``` OFFER, WAITING_FOR_PAYMENT, IN_MAIL, DONE ```
+     -  à la `OFFER`, `WAITING_FOR_PAYMENT`, `IN_MAIL`, `DONE`
