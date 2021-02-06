@@ -21,12 +21,18 @@ ________________________________________________________________________________
 
 ## Projekti kirjeldus
 
+
+
+
+
+
+
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Konfiguratsioon
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
-### Schema Orders kood child schema-ga Product
+### Schema Orders koos child schema-ga Product
 ![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
 ### Schema Products
 ![ :information_source: Toote mudel](./Products.png)
@@ -34,3 +40,10 @@ NN - tähistab nõutavat välja (not null)
 ![ :information_source: Kasutaja mudel](./Users.png)
 ### Shema Bonus
 ![ :information_source: Boonuse mudel](./Bonus.png)
+
+
+
+
+
+
+
