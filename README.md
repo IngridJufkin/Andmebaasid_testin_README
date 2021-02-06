@@ -82,11 +82,12 @@ ________________________________________________________________________________
 - Kõikide toodete otsimiseks kasutatame GET päringut
 - url `http://localhost:3001/API/products`
 - saata päring ("Send" nupp)
+
 ![Kõikide tootete otsimine andmebaasist(GET)](./images/GETALL.png)
 
 ## (GET) andmebaasist toote otsimine ID järgi
 - Toote otsimiseks ID järgi kasutame samuti GET päringut
-- url `http://localhost:3001/API/product/:id` (:id asendada otsitava toote ID-ga)
+- url `http://localhost:3001/API/product/:id` (`:id` asendada otsitava toote ID-ga)
 - saata päring ("Send" nupp)
 
 ![Toote otsimine andmebaasist toote ID järgi(GET)](./images/GETID.png)
@@ -108,13 +109,16 @@ ________________________________________________________________________________
 - Valime päringu tüübiks DELETE
 - Sisestame päringu URL-i. `http://localhost:3001/API/product/:id` (`:id`asendame selle toote ID-ga, mida kustutada soovime)
 - saata päring ("Send" nupp)
-- Kui päring õnnestub, on toode kustutatud. Kontrollimiseks saad kasutada GET meetodit ja otsida ID-ga toode üles, kui ei leia, siis on järelikult ära kustutatud
+- Kui päring õnnestub, on toode kustutatud. Kontrollimiseks saad kasutada GET meetodit. Kui toodet ei leita tagastav vastuseks `ruby "Product": null`
 
 ![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
+![Kustutatud toote päring ID-ga andmebaasist(GET)](./images/GETDELETED.png)
+
+
 
 
 # Muudatuste üleslaadmine githubi
 
-
+???
 
 
