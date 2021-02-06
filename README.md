@@ -3,8 +3,8 @@ ________________________________________________________________________________
 
 # :memo: Projekt: SALVEST 
 ## Projekti omanik:
-grupp: ### TARTU ###
-## Tiim TARTU liikmed
+### grupp: TARTU
+## Tiim TARTU liikmed:
 | Grupiliikme nimi | github kasutaja |
 | --- | --- |
 | :green_book: Airika Vettik | AirikaVettik |
