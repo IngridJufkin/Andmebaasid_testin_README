@@ -2,7 +2,8 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 
 # :memo: Projekt: SALVEST 
-## Projekti omanik: tiim TARTU
+## Projekti omanik:
+grupp: ### TARTU
 ## Tiim TARTU liikmed
 | Grupiliikme nimi | github kasutaja |
 | --- | --- |
