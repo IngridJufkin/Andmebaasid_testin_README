@@ -79,7 +79,7 @@ ________________________________________________________________________________
 ![Toote lisamine andmebaasi(POST)](./images/POST.png)
 
 ## (GET) andmebaasist kõikide toodete otsimine
-- Lisatud toodete vaatamiseks kasutatakse GET päringut
+- Kõikide toodete otsimiseks kasutatame GET päringut
 
 ![Kõikide tootete otsimine andmebaasist(GET)](./images/GETALL.png)
 
