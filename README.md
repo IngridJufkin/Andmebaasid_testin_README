@@ -113,15 +113,9 @@ ________________________________________________________________________________
 
 ![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
 
-
 - Kui toodet ei leita tagastab vastuseks
+
 ![Kustutatud toote päring ID-ga andmebaasist(GET)](./images/GETDELETED.png)
-
-
-
-
-
-
 
 
 # Muudatuste üleslaadmine githubi
