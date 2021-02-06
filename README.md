@@ -1,4 +1,4 @@
-### [ :information_source: Iseseiseva töö ülesande kirjeldus](./assingment_description.md)
+### [ :information_source: Link: Iseseiseva töö ülesande kirjeldus](./assingment_description.md)
 ________________________________________________________________________________________________________________________________________________________________________________
 
 # Projekt: SALVEST
