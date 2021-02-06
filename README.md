@@ -71,7 +71,7 @@ ________________________________________________________________________________
 - Andmebaasi lisamiseks kasutatakse POST meetodit
 - Selleks avame uue päringu Tabi
 - Valime päringu tüübiks POST
-- Sisestame päringu URL-i. Meie näites server jookseb aadressil `http://localhost:3001`, sellele järgi lisame tee, `/API/Product` (kirjeldatud router.js failis).
+- Sisestame päringu URL-i. Meie näites server jookseb aadressil `http://localhost:3001`+ `/API` + `/Product` (viimane osa kirjeldatud router.js failis).
 - Seejärel valida Body -> raw -> faili tüübiks JSON
 - Edasi tuleb body-sse sisestada sisestatavad andmed, kui need lisatud, siis saata päring ("Send" nupp)
 - Kui päring õnnestub, on toode lisatud, Kontrollimiseks saad kasutada GET meetodit ja vaadata, kas lisatud toode on loendis olemas
