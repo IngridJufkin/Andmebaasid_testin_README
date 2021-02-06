@@ -18,6 +18,8 @@
 
 :green_book: - aktiivne osaleja 
 :closed_book: - mitteaktiivne osaleja
+
+
 ## Iseseiseva töö kirjeldus
 
 1. Luua andmebaas mongo atlas lehel (Võib ka mujal või ise hostida)
