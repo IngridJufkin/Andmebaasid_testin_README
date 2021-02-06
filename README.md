@@ -21,8 +21,7 @@ ________________________________________________________________________________
 
 # Projekti kirjeldus
 
-Loome andmebaasi
-Andmebaasi 
+## ???
 
 
 
@@ -31,18 +30,18 @@ Andmebaasi
 ________________________________________________________________________________________________________________________________________________________________________________
 # Konfiguratsioon
 ### Toote andmebaasi lisamine (POST), otsimine(GET), muutmine(PATCH), kustutamine(DELETE)
-![Toote lisamine andmebaasi(POST)](./POST.png)
-![Kõikide tootete otsimine andmebaasist(GET)](./GETALL.png)
-![Toote otsimine andmebaasist toote ID järgi(GET)](./GETID.png)
-![Toote muutmine andmebaasis(PATCH)](./PATCH.png)
-![Toote kustutamine andmebaasist(DELETE)](./DELETE.png)
+![Toote lisamine andmebaasi(POST)](./images/POST.png)
+![Kõikide tootete otsimine andmebaasist(GET)](./images/GETALL.png)
+![Toote otsimine andmebaasist toote ID järgi(GET)](./images/GETID.png)
+![Toote muutmine andmebaasis(PATCH)](./images/PATCH.png)
+![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
 
 
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
 ## Schema Orders koos child schema-ga Products
-![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
+![ :information_source: Link: Tellimuse mudel](./images/Schema_Orders_and_child_schema_Products.png)
 ### Orders endpoint-id
 * Tellimuse lisamine - `addOrder`
 * Kõikide telimuste leidmine - `getAllOrders`
@@ -53,7 +52,7 @@ NN - tähistab nõutavat välja (not null)
 * Tellimuses toote muutmine toote ID-järgi - `updateOrderProduct`
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Schema Products
-![ :information_source: Toote mudel](./Products.png)
+![ :information_source: Toote mudel](./images/Products.png)
 ### Products endpoint-id
 * Toote lisamine -`addProduct`
 * Kõikide toodete leidmine - `getAllProducts`
@@ -62,14 +61,14 @@ ________________________________________________________________________________
 * Toote kustutamine - `deleteProduct`
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Schema Users
-![ :information_source: Kasutaja mudel](./Users.png)
+![ :information_source: Kasutaja mudel](./images/Users.png)
 ### Users endpoint-id:
 * Kasutaja lisamine - `addUser`
 * Kõkide kasutajate leidmine - `getAllUsers`
 * Kasutaja muutmine - `updateUser`
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Schema Bonus
-![ :information_source: Boonuse mudel](./Bonus.png)
+![ :information_source: Boonuse mudel](./images/Bonus.png)
 ### Bonus endpointid:
 * Boonuse lisamine - `addBonus`
 * Kõikide boonuste leidmine - `getAllBonus`
