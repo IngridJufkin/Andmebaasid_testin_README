@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Konfiguratsioon
 Kasutatakse järgmisi lühendeid:
-NN - ähistab nõutavat välja (not null)
+NN - tähistab nõutavat välja (not null)
 
 ### Orders
 ![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
