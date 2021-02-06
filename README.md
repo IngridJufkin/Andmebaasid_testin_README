@@ -9,9 +9,9 @@
 
 | Grupiliikme nimi | github kasutaja |
 | --- | --- |
-| Airika Vettik | AirikaVettik |
+| :green_book: Airika Vettik | AirikaVettik |
 | Ilja Akulenko | akulenkoilja |
-| Ingri Jufkin | IngridJufkin |
+| :green_book: Ingri Jufkin | IngridJufkin |
 | Kevin-Anders Kalamees | Kevinanders0 |
 | Ragne Samson | ragne989 |
 | Vaire Riiet | Vaire444 |
