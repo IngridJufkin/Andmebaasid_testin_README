@@ -6,14 +6,17 @@ tiim TARTU
 
 Tiim TARTU liikmed
 
-- Airika Vettik (github kasutaja: AirikaVettik)
-- Ilja Akulenko(github kasutaja: akulenkoilja)
-- Ingri Jufkin (github kasutaja: IngridJufkin)
-- Kevin-Anders Kalamees (github kasutaja: Kevinanders0)
-- Ragne Samson(github kasutaja: ragne989)
-- Vaire Riiet (github kasutaja: Vaire444)
+| Nimi | github kasutaja |
+| --- | --- |
+| Airika Vettik | AirikaVettik |
+| Ilja Akulenko | akulenkoilja |
+| Ingri Jufkin | IngridJufkin |
+| Kevin-Anders Kalamees | Kevinanders0 |
+| Ragne Samson | ragne989 |
+| Vaire Riiet | Vaire444 |
 
-Iseseiseva töö kirjeldus
+
+## Iseseiseva töö kirjeldus
 
 1. Luua andmebaas mongo atlas lehel (Võib ka mujal või ise hostida)
 2. Mõtle välja andmebaasi schema (struktuur) mongoose schema kujul (näiteks: https://github.com/erlendprikss/expressmongoosedemo/blob/main/src/models/users.model.js). Andmebaas võiks miinimum sisaldada kolme tabelit – Products, Orders, Users.
