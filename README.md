@@ -20,7 +20,7 @@ ________________________________________________________________________________
 :closed_book: - mitteaktiivne osaleja
 
 ________________________________________________________________________________________________________________________________________________________________________________
-## Iseseiseva töö kirjeldus
+## Iseseiseva töö ülesande kirjeldus
 
 1. Luua andmebaas mongo atlas lehel (Võib ka mujal või ise hostida)
 2. Mõtle välja andmebaasi schema (struktuur) mongoose schema kujul (näiteks: https://github.com/erlendprikss/expressmongoosedemo/blob/main/src/models/users.model.js). Andmebaas võiks miinimum sisaldada kolme tabelit – `Products`, `Orders`, `Users`.
@@ -40,3 +40,11 @@ ________________________________________________________________________________
    - Ühe tellimuse muutmine _id järgi
    - Ühe tellimuse staatuse muutmine
      -  à la `OFFER`, `WAITING_FOR_PAYMENT`, `IN_MAIL`, `DONE`
+________________________________________________________________________________________________________________________________________________________________________________
+# Projekti kirjeldus
+
+________________________________________________________________________________________________________________________________________________________________________________
+# Konfiguratsioon
+
+
+
