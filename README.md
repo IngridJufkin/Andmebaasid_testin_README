@@ -32,7 +32,7 @@ ________________________________________________________________________________
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
-## Schema Orders koos child schema-ga Product
+## Schema Orders koos child schema-ga Products
 ![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
 ### Orders endpoint-id
 * Tellimuse lisamine - `addOrder`
