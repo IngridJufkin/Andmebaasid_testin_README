@@ -3,6 +3,7 @@
 ## Projekti omanik
 
 | tiim TARTU |
+| ---|
 
 ## Tiim TARTU liikmed
 
