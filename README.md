@@ -1,11 +1,11 @@
 
 
-## Projekti omanik
+# Projekti omanik
 
 | :memo: tiim TARTU |
 | ---|
 
-## Tiim TARTU liikmed
+# Tiim TARTU liikmed
 
 | Grupiliikme nimi | github kasutaja |
 | --- | --- |
