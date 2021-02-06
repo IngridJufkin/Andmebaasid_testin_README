@@ -28,13 +28,13 @@ ________________________________________________________________________________
 
 
 ________________________________________________________________________________________________________________________________________________________________________________
-## Konfiguratsioon
+# Konfiguratsioon
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
-### Schema Orders koos child schema-ga Product
+## Schema Orders koos child schema-ga Product
 ![ :information_source: Link: Tellimuse mudel](./Schema_Orders_and_child_schema_Products.png)
-#### Orders endpoint-id
+### Orders endpoint-id
 * Tellimuse lisamine - `addOrder`
 * Kõikide telimuste leidmine - `getAllOrders`
 * Tellimuse leidmine tellimuse ID järgi - `getOrderByID`
@@ -42,26 +42,26 @@ NN - tähistab nõutavat välja (not null)
 * Tellimuse leidmine staatuse järgi - `getOrdersByStatus`
 * Tellimuse muutmine - `updateOrder`
 * Tellimuses toote muutmine toote ID-järgi - `updateOrderProduct`
-
-### Schema Products
+________________________________________________________________________________________________________________________________________________________________________________
+## Schema Products
 ![ :information_source: Toote mudel](./Products.png)
-#### Products endpoint-id
+### Products endpoint-id
 * Toote lisamine -`addProduct`
 * Kõikide toodete leidmine - `getAllProducts`
 * Toote muutmine - `updateProduct`
 * Toote leidmine ID järgi - `getProductByID`
 * Toote kustutamine - `deleteProduct`
-
-### Schema Users
+________________________________________________________________________________________________________________________________________________________________________________
+## Schema Users
 ![ :information_source: Kasutaja mudel](./Users.png)
-#### Users endpoint-id:
+### Users endpoint-id:
 * Kasutaja lisamine - `addUser`
 * Kõkide kasutajate leidmine - `getAllUsers`
 * Kasutaja muutmine - `updateUser`
-
-### Schema Bonus
+________________________________________________________________________________________________________________________________________________________________________________
+## Schema Bonus
 ![ :information_source: Boonuse mudel](./Bonus.png)
-#### Bonus endpointid:
+### Bonus endpointid:
 * Boonuse lisamine - `addBonus`
 * Kõikide boonuste leidmine - `getAllBonus`
 * Boonuse muutmine - `updateBonus`
