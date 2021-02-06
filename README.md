@@ -74,24 +74,35 @@ ________________________________________________________________________________
 - Sisestame päringu URL-i. Meie näites server jookseb aadressil `http://localhost:3001`, sellele järgi lisame tee, `/API/Product` (kirjeldatud router.js failis).
 - Seejärel valida Body -> raw -> faili tüübiks JSON
 - Edasi tuleb body-sse sisestada sisestatavad andmed, kui need lisatud, siis saata päring ("Send" nupp)
-- Kui päring õnnestub, on toode lisatud
+- Kui päring õnnestub, on toode lisatud, Kontrollimiseks saad kasutada GET meetodit ja vaadata, kas lisatud toode on loendis olemas
 
 ![Toote lisamine andmebaasi(POST)](./images/POST.png)
 
 ## (GET) andmebaasist kõikide toodete otsimine
-Lisatud toodete vaatamiseks kasutatakse GET päringut
+- Lisatud toodete vaatamiseks kasutatakse GET päringut
 
 ![Kõikide tootete otsimine andmebaasist(GET)](./images/GETALL.png)
 
 ## (GET) andmebaasist toote otsimine ID järgi
+- Toote otsimiseks ID järgi kasutame samuti GET päringut
 ![Toote otsimine andmebaasist toote ID järgi(GET)](./images/GETID.png)
 
 ## (PATCH) ühe toote muutmine
+- Muutmiseks kasutatakse PATCH meetodit
+- Selleks avame uue päringu Tabi
+- Valime päringu tüübiks PATCH
+- Sisestame päringu URL-i. Meie näites server jookseb aadressil `http://localhost:3001`, sellele järgi lisame tee, `/API/Product/:id` (kirjeldatud router.js failis NB! `:id`asendame selle toote ID-ga, mida muuta soovime).
+- Seejärel valida Body -> raw -> faili tüübiks JSON
+- Edasi tuleb body-sse sisestada muudetavad andmed, kui need lisatud, siis saata päring ("Send" nupp)
+- Kui päring õnnestub, on muudatus tehtud. Kontrollimiseks saad kasutada GET meetodit ja otsida ID-ga toode üles
+
 ![Toote muutmine andmebaasis(PATCH)](./images/PATCH.png)
 
 ## (DELETE) ühe toote kustutamine
 ![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
 
+
+# Muudatuste üleslaadmine githubi
 
 
 
