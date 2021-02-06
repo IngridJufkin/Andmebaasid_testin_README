@@ -112,6 +112,7 @@ ________________________________________________________________________________
 - Kui päring õnnestub, on toode kustutatud. Kontrollimiseks saad kasutada GET meetodit. Kui toodet ei leita tagastav vastuseks `"Product": null`
 
 ![Toote kustutamine andmebaasist(DELETE)](./images/DELETE.png)
+
 ![Kustutatud toote päring ID-ga andmebaasist(GET)](./images/GETDELETED.png)
 
 
