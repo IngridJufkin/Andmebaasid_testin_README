@@ -21,7 +21,8 @@ ________________________________________________________________________________
 
 # Projekti kirjeldus
 
-
+Loome andmebaasi
+Andmebaasi 
 
 
 
@@ -29,6 +30,14 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________________
 # Konfiguratsioon
+### Toote andmebaasi lisamine (POST), otsimine(GET), muutmine(PATCH), kustutamine(DELETE)
+![Toote lisamine andmebaasi(POST)](./POST.png)
+![Kõikide tootete otsimine andmebaasist(GET)](./GETALL.png)
+![Toote otsimine andmebaasist toote ID järgi(GET)](./GETID.png)
+![Toote muutmine andmebaasis(PATCH)](./PATCH.png)
+![Toote kustutamine andmebaasist(DELETE)](./DELETE.png)
+
+
 Kasutatakse järgmisi lühendeid:
 NN - tähistab nõutavat välja (not null)
 
