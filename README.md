@@ -6,7 +6,7 @@ tiim TARTU
 
 Tiim TARTU liikmed
 
-| Nimi | github kasutaja |
+| Grupiliikme nimi | github kasutaja |
 | --- | --- |
 | Airika Vettik | AirikaVettik |
 | Ilja Akulenko | akulenkoilja |
